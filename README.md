@@ -40,11 +40,10 @@ Pivot Analysis
 <img width="1790" height="642" alt="image" src="https://github.com/user-attachments/assets/379aad1f-3dc6-4ee1-bbc4-517877013922" />
 
 
-📁 Project File
-
+📁 Project File                                                                                                                                                
 [Download Excel Dashboard](Blinkit_Sales_Dashboard.xlsx)
 
 
-🚀 Conclusion
 
+🚀 Conclusion                                                                                                                                                      
 This project demonstrates strong Excel and data analysis skills, including dashboard creation and pivot-based insights to support business decision-making.
