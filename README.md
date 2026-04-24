@@ -36,6 +36,7 @@ This project focuses on analyzing Blinkit sales data using Microsoft Excel. It i
 📷 Dashboard Preview
 
 Main Dashboard
+<img width="1186" height="627" alt="image" src="https://github.com/user-attachments/assets/c89a9606-6478-414e-a4a6-ab0cf2ecc0fe" />
 
 
 Pivot Analysis
