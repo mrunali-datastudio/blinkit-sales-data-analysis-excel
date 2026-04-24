@@ -31,13 +31,9 @@ This project focuses on analyzing Blinkit sales data using Microsoft Excel. It i
 - Regular fat products outperform low-fat items
 - Medium-sized outlets show stable performance
 
----
-
 📷 Dashboard Preview
-
 Main Dashboard
 <img width="1186" height="627" alt="image" src="https://github.com/user-attachments/assets/c89a9606-6478-414e-a4a6-ab0cf2ecc0fe" />
-
 
 Pivot Analysis
 <img width="1780" height="651" alt="image" src="https://github.com/user-attachments/assets/a2bacaa5-e3c1-45e6-b5d2-310fbf4c911c" />
@@ -45,7 +41,7 @@ Pivot Analysis
 
 
 📁 Project File
-PK
+Blinkit_Sales_Dashboard.xlsx
 
 🚀 Conclusion
 This project demonstrates strong Excel and data analysis skills, including dashboard creation and pivot-based insights to support business decision-making.
