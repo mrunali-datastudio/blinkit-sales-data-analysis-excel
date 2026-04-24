@@ -42,7 +42,8 @@ Pivot Analysis
 
 📁 Project File
 
-Blinkit_Sales_Dashboard.xlsx
+## 📁 Project File
+[Download Excel Dashboard](Blinkit_Sales_Dashboard.xlsx)
 
 🚀 Conclusion
 This project demonstrates strong Excel and data analysis skills, including dashboard creation and pivot-based insights to support business decision-making.
