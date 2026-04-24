@@ -41,8 +41,7 @@ Main Dashboard
 
 Pivot Analysis
 <img width="1780" height="651" alt="image" src="https://github.com/user-attachments/assets/a2bacaa5-e3c1-45e6-b5d2-310fbf4c911c" />
-
-
+<img width="1790" height="642" alt="image" src="https://github.com/user-attachments/assets/379aad1f-3dc6-4ee1-bbc4-517877013922" />
 
 
 📁 Project File
